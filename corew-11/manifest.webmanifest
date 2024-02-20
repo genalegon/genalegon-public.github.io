@@ -1,0 +1,21 @@
+{
+  "name": "AlexCrocodilych",
+  "short_name": "Crocodilych",
+  "description": "AlexCrocodilych",
+  "lang": "en",
+  "display": "standalone",
+  "start_url": "https://alexcrocodilych.github.io/",
+  "scope": "/",
+  "background_color": "#fff",
+  "theme_color": "#F05528",
+  "icons": [{
+        "src": "google-touch-icon.png",
+        "sizes": "512x512"
+    },
+    {
+      "src": "images/icon-maskable-196.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+}
